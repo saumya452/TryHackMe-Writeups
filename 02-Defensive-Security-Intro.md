@@ -1,10 +1,10 @@
-Defensive Security Intro
+# Defensive Security Intro
 
-Summary
+## Summary
 
 In this TryHackMe room, I learned the fundamentals of Defensive Security and how organizations protect their systems from cyber threats. The room introduced concepts such as monitoring, threat detection, incident response, and security operations. I learned how security teams identify suspicious activity and respond to attacks to keep systems secure. This room helped me understand the importance of proactive defense in cybersecurity.
 
-Key Learnings
+## Key Learnings
 
 - Learned the concept of Defensive Security.
 - Understood how security teams detect and respond to threats.
