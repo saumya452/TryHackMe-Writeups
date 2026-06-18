@@ -12,4 +12,5 @@ I learned the basics of Linux and how to use the command line. This room introdu
 - Learned how to view and manage files from the terminal
 - Gained hands-on experience using Linux commands
 
-<img width="1298" height="741" alt="image" src="PASTE_YOUR_SCREENSHOT_LINK_HERE" />
+<img width="1246" height="647" alt="image" src="https://github.com/user-attachments/assets/42a3510b-3a90-4300-a239-0f8cdee335db" />
+
